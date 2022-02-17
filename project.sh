@@ -1,1 +1,1 @@
-echo "hello from my first job"
+echo "hello from my first test webhook"
