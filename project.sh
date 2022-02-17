@@ -1,1 +1,1 @@
-echo "hello from my first test webhook"
+echo "hello from my second test webhook"
